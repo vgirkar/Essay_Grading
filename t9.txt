@@ -1,0 +1,17 @@
+The computer is the most wonderful gift of science to the modern man. The computer can do all the works of man. Thus, after the invention of computer, the gap between man and machine has been bridged up.
+
+The dictionary meaning of the word "Computer" is an electronic calculating machine. It is derived from the word compute which means to reckon. But the function of the computer has expanded beyond the act of reckoning. Though a machine, it contains and provides innumerable information's and artificial intelligence of a very high order. It may seem strange, but it is true that the memory and intelligence of a computer can surpass those of a living human being.
+
+The mechanism of the computer is very simple. Information processing is the essence of computing. It is a data based machine. The data is fed into the machine. The machine is manipulated and then the due information is retrieved.
+
+Computer was invented due to the pressures of World War-II which witnessed the use of such sophisticated weapons as night bombers, submarines, and long range guns on ships and tanks, etc. The defenders have to fight back by shooting at targets and those targets of the enemy can be located by radar.
+
+Radar can inform not only about the location of the enemy but also about the direction and the speed of the enemy weapons. Detailed mathematical calculations are necessary to find out these things accurately. Firing tables are required by the front line soldiers. Thus the necessity of calculations of firing tables led to the invention of computers. Only computer could produce such firing tables with the required speed and accuracy.
+
+High sums of money, and brain power were combined to produce the technology. ENIAC was the first computer produced by the Moore School of Engineering on behalf of the U.S. Army in 1946. ENIAC was able to produce the firing tables by carrying out the huge number of calculations accurately.
+
+Computers today are used to forecast the weather, to operate machines, to cut shapes out of sheet metal and even to guide spacecraft to the moon. Computers are necessary in printing book and news papers, in diagnosing disease, in looking of obscure documents in archives and elusive criminals etc. Travel agents all round the world can know whether a seat or a bed will be available in an aero plane or in hotel, either today or a year from now. Companies use them for accounting, invoicing, stock control and pay rolls. Computer helps greatly in medical science, particularly in surgery and pathology.
+
+The original objective for inventing the computer was to create a fast calculating machine, though today it is used for other purposes. Computer is something more than a calculating device only. It plays vital role in sending cosmonauts to the space and to the moon. Courses in computer technology have been introduced in colleges and universities because of the growing importance of computer.
+
+Robot is another name of computer. Robot is an artificial man. It can do the work of many men. Robot can rescue a ship from drowning in the sea. It can save aero planes from disaster. Robot can make surgical operations like an expert physician. It can guide pilot less aero planes. Recently in the month of June, 1997 the World's No-1 chess player Gary Kasparov was defeated by a Robot in chess competition. Thus, the role of Robot or computer-man is very great in the world today.
