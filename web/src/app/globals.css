@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .toolbar-btn {
+    @apply px-3 py-1.5 text-xs font-medium text-slate-600 bg-white border border-slate-300
+           rounded hover:bg-slate-50 hover:border-slate-400 active:bg-slate-100
+           transition-all duration-150 select-none cursor-pointer;
+  }
+  .toolbar-btn:disabled {
+    @apply opacity-40 cursor-not-allowed;
+  }
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.score-ring {
+  transform: rotate(-90deg);
+}
+
+.score-ring-bg {
+  stroke: #e2e8f0;
+}
+
+.score-ring-fill {
+  stroke-linecap: round;
+  transition: stroke-dashoffset 1.2s ease-out;
+}
+
+@keyframes typing-cursor {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
